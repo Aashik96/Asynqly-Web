@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.asynqly.com
+
+# Sitemaps
+Sitemap: https://www.asynqly.com/sitemap.xml
